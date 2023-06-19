@@ -3,6 +3,7 @@
 ## Overview
 
 This is a fitness website built using React and TypeScript. The site contains information about the gym, fitness classes, and a contact form for new potential members. The goal of this website is to provide a user-friendly platform for people interested in getting in shape and joining our fitness community.
+[Project Link](https://63684f1f.fitnessapp-da6.pages.dev/)
 
 ## Key Features
 
@@ -46,4 +47,7 @@ Home: The home page component which presents information about the gym and servi
 Navbar: The navigation bar component which allows users to navigate through different sections of the website.
 ContactUs: The contact form for potential members to reach out.
 And many more...
+```
 
+<h2>License</h2>
+Distributed under the MIT License. See LICENSE for more information.
